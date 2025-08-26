@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 ## Usage
 ```bash
-python transcribe_cli.py /path/to/audio.m4a --provider openai
+python transcribe_cli.py /path/to/audio.m4a --provider openai --compute-type float32
 ```
 Options:
 - `--provider` one of `openai`, `mistral`, `gemini` (default: `openai`)
