@@ -1,0 +1,10 @@
+{
+  "input_file": "/Users/valavan/Projects/Transcript/Mock_Call_1.mp3",
+  "provider": "openai",
+  "model": null,
+  "language": "en",
+  "duration_seconds": 140.9062819480896,
+  "transcript_chars": 2496,
+  "summary_chars": 1439,
+  "created_at": 1756223744
+}

@@ -1,0 +1,236 @@
+[
+  {
+    "start": 0.3,
+    "end": 15.48,
+    "text": "Thank you for calling United Care. This is Jolene. How may I assist you today?",
+    "words": null
+  },
+  {
+    "start": 15.48,
+    "end": 23.48,
+    "text": "Hi, my name is Cassandra Vitique. I'm a caller from Michigan Medical Center and I'm checking on the claim status.",
+    "words": null
+  },
+  {
+    "start": 23.48,
+    "end": 32.48,
+    "text": "Sure, I can assist you to check on the claim status. By the way, let me have your best callback number just in case the line gets disconnected.",
+    "words": null
+  },
+  {
+    "start": 32.48,
+    "end": 39.48,
+    "text": "Sure. My callback number is 734-976-5220.",
+    "words": null
+  },
+  {
+    "start": 39.48,
+    "end": 44.48,
+    "text": "Thank you. And I may also have your provider NPA number.",
+    "words": null
+  },
+  {
+    "start": 44.48,
+    "end": 54.48,
+    "text": "Okay. My provider NPA number is going to be 231-377-1113.",
+    "words": null
+  },
+  {
+    "start": 54.48,
+    "end": 61.48,
+    "text": "Alright. Thank you for verifying the provider information. Now, I may have the member ID.",
+    "words": null
+  },
+  {
+    "start": 62.48,
+    "end": 72.48,
+    "text": "Sure. Member ID is H as in Henry. Then the number is 546-1560.",
+    "words": null
+  },
+  {
+    "start": 72.48,
+    "end": 78.48,
+    "text": "Thank you. And can you please verify the patient name and date of birth?",
+    "words": null
+  },
+  {
+    "start": 78.48,
+    "end": 88.48,
+    "text": "Okay. Patient name is Orlando West and date of birth is January 22nd of 1948.",
+    "words": null
+  },
+  {
+    "start": 88.48,
+    "end": 97.52,
+    "text": "Thank you. Let me just verify this patient information, okay? Bear with me.",
+    "words": null
+  },
+  {
+    "start": 97.52,
+    "end": 99.52,
+    "text": "Yeah, sure. Take your time.",
+    "words": null
+  },
+  {
+    "start": 99.52,
+    "end": 114.65,
+    "text": "Alright. I already have the patient information with me. You've mentioned that you want to check on the claim status.",
+    "words": null
+  },
+  {
+    "start": 114.65,
+    "end": 125.14,
+    "text": "Yes. I'm checking on the claim status for date of service of January 1st, 2022.",
+    "words": null
+  },
+  {
+    "start": 125.14,
+    "end": 129.14,
+    "text": "Okay. May I know the billed amount on this claim?",
+    "words": null
+  },
+  {
+    "start": 129.14,
+    "end": 133.14,
+    "text": "Billed amount is $1,000 even.",
+    "words": null
+  },
+  {
+    "start": 133.14,
+    "end": 139.41,
+    "text": "Okay. Let me go ahead and check the claim status for you.",
+    "words": null
+  },
+  {
+    "start": 139.41,
+    "end": 142.41,
+    "text": "No problem. Just take your time.",
+    "words": null
+  },
+  {
+    "start": 142.41,
+    "end": 157.14,
+    "text": "Thank you. Alright. Cassandra, subject. This claim was denied as no authorization on file.",
+    "words": null
+  },
+  {
+    "start": 157.14,
+    "end": 163.14,
+    "text": "Okay. So, can I get the claim received date and the denial date?",
+    "words": null
+  },
+  {
+    "start": 163.14,
+    "end": 174.14,
+    "text": "Sure. Claim received on January 2nd of 2022 and it was denied on January 15th of 2022.",
+    "words": null
+  },
+  {
+    "start": 174.14,
+    "end": 183.14,
+    "text": "Okay. Thank you. Let me check if I have the odd number in my system.",
+    "words": null
+  },
+  {
+    "start": 183.14,
+    "end": 185.14,
+    "text": "Okay.",
+    "words": null
+  },
+  {
+    "start": 185.14,
+    "end": 197.48,
+    "text": "I have the odd number. Can you check if this odd number is valid for my date of service or not?",
+    "words": null
+  },
+  {
+    "start": 197.48,
+    "end": 202.48,
+    "text": "Sure. What's the authorization number?",
+    "words": null
+  },
+  {
+    "start": 202.48,
+    "end": 210.48,
+    "text": "Okay. Odd number is 143-143-143.",
+    "words": null
+  },
+  {
+    "start": 210.48,
+    "end": 227.51,
+    "text": "Thank you. Well, I've seen that this authorization is invalid for date of service.",
+    "words": null
+  },
+  {
+    "start": 227.51,
+    "end": 233.51,
+    "text": "Okay. So, can we obtain a retro authorization for this claim?",
+    "words": null
+  },
+  {
+    "start": 234.51,
+    "end": 241.05,
+    "text": "No. I'm sorry. We do not provide retro authorization.",
+    "words": null
+  },
+  {
+    "start": 241.05,
+    "end": 246.05,
+    "text": "Okay. So, can we appeal on this claim?",
+    "words": null
+  },
+  {
+    "start": 246.05,
+    "end": 252.05,
+    "text": "Yes. You have 120 days from denial date to send an appeal for this claim.",
+    "words": null
+  },
+  {
+    "start": 252.05,
+    "end": 256.05,
+    "text": "Okay. So, in that case, can I get the appeals mailing address?",
+    "words": null
+  },
+  {
+    "start": 256.05,
+    "end": 259.05,
+    "text": "Yeah. Sure. You ready?",
+    "words": null
+  },
+  {
+    "start": 259.05,
+    "end": 260.05,
+    "text": "Yep.",
+    "words": null
+  },
+  {
+    "start": 260.05,
+    "end": 285.86,
+    "text": "Appeal mailing address is PO Box 13202, Atlanta, Georgia, 503-20. PO Box 13202, Atlanta, Georgia, 503-20.",
+    "words": null
+  },
+  {
+    "start": 285.86,
+    "end": 290.86,
+    "text": "Okay. Thank you. And may I have the call reference number?",
+    "words": null
+  },
+  {
+    "start": 290.86,
+    "end": 300.86,
+    "text": "Sure. Call reference number is 1-143-692.",
+    "words": null
+  },
+  {
+    "start": 300.86,
+    "end": 305.86,
+    "text": "Okay. Thanks for help, Jelaine. That's all I need. Have a nice day. Bye.",
+    "words": null
+  },
+  {
+    "start": 305.86,
+    "end": 309.86,
+    "text": "Thank you for calling United Care. Have a good one. Bye.",
+    "words": null
+  }
+]
